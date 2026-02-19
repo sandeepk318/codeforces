@@ -2,5 +2,7 @@
 .cph
 *.bin
 build/
-input.txt
-output.txt
+*.txt
+*.txt
+a.out
+
